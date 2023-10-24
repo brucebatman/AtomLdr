@@ -5,6 +5,9 @@ AtomLdr: A DLL loader with evasive features
 
 ### Disclaimer
 
+### Update 
+- Defender detects this loader now, both payloads from CobaltStrike and Havoc C2. (20231024)
+
 #### This loader utilizes techniques taught in MalDev Academy. The training will be launched in the upcoming weeks on [maldevacademy.com](maldevacademy.com).
 
 </br>
